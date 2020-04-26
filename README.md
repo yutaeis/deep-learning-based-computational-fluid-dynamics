@@ -26,7 +26,7 @@ sudo pip install -r requirements.txt
 1. 数値計算
 解析解と数値計算解の比較をしました．数値計算には1次法のオイラー法と2次法の修正オイラー法で計算誤差があることを確認しました．
 
-![alt tag](https://github.com/yutaeis/deep-learning-based-computational-fluid-dynamics/results/cfd-1d-convection.gif)
+![alt tag](./results/cfd-1d-convection.gif)
 
 2. 深層学習
 数値計算結果を教師データとして，CNNとBackpropagationで流れ場を予測するモデルを構築しました．また，データにノイズを与え，水増しすることで予測精度が向上することを確かめました．(Backpropagationでは移流速度，時間間隔，離散点の距離を推定し，数値計算と同じ方法で求めました．)
