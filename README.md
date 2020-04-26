@@ -28,7 +28,7 @@ sudo pip install -r requirements.txt
 
 
 <div align="center">
-<img src="./results/cfd-1d-convection.gif"/>
+<img src="./figs/cfd-1d-convection.gif"/>
 </div>
 
 2. 深層学習
@@ -36,12 +36,12 @@ sudo pip install -r requirements.txt
 
 **CNN**
 <div align="center">
-<img src="./results/cnn-all-1d-convection.gif"/>
+<img src="./figs/cnn-all-1d-convection.gif"/>
 </div>
 
 
 **Backpropagation**
 
 <div align="center">
-<img src="./results/backprop-1d-convection.gif"/>
+<img src="./figs/backprop-1d-convection.gif"/>
 </div>
