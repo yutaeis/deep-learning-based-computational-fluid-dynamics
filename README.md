@@ -1,6 +1,6 @@
 # Description
 
-このリポリトジは深層学習ベースの流体シミュレーションを取り扱います．1次元移流方程式を例に[1.数値計算](https://github.com/yutaeis/deep-learning-based-computational-fluid-dynamics/blob/master/src/cfd_1d_convectioin.ipynb)と[2.深層学習](https://github.com/yutaeis/deep-learning-based-computational-fluid-dynamics/blob/master/src/dl_1d_convectioin.ipynb)のパートに分けてJupyter Notebookでコードを実行します．
+このリポリトジは深層学習ベースの流体シミュレーションを取り扱います．1次元移流方程式を例に[1.数値計算](https://github.com/yutaeis/deep-learning-based-computational-fluid-dynamics/blob/master/src/cfd_1d_convectioin.ipynb)と[2.深層学習](https://github.com/yutaeis/deep-learning-based-computational-fluid-dynamics/blob/master/src/dl_1d_convectioin.ipynb)の2つに分かれたJupyter Notebookになります．
 
 1. 数値計算
 数値計算に馴染みのない方を対象としたnotebookです．簡単な計算誤差の比較を行います．
