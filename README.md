@@ -26,6 +26,7 @@ sudo pip install -r requirements.txt
 1. 数値計算
 解析解と数値計算解の比較をしました．数値計算には1次法のオイラー法と2次法の修正オイラー法で計算誤差があることを確認しました．
 
+![alt tag](./results/cfd-1d-convection.gif)
 
 <div style="text-align:center"><img src="./results/cfd-1d-convection.gif"/></div>
 
