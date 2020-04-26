@@ -31,11 +31,17 @@ sudo pip install -r requirements.txt
 <img src="./results/cfd-1d-convection.gif"/>
 </div>
 
-1. 深層学習
+2. 深層学習
 数値計算結果を教師データとして，CNNとBackpropagationで流れ場を予測するモデルを構築しました．また，データにノイズを与え，水増しすることで予測精度が向上することを確かめました．(Backpropagationでは移流速度，時間間隔，離散点の距離を推定し，数値計算と同じ方法で求めました．)
 
-![alt tag](./results/cnn-1d-convection.gif)
+**CNN**
+<div align="center">
+<img src="./results/cnn-all-1d-convection.gif"/>
+</div>
 
-![alt tag](./results/cnn-noise-1d-convection.gif)
 
-![alt tag](./results/backprop-1d-convection.gif)
+**Backpropagation**
+
+<div align="center">
+<img src="./results/backprop-1d-convection.gif"/>
+</div>
